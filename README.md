@@ -7,4 +7,5 @@ Current Files:
     Used to outline a new application or extensive feature
 - [AGENTS file](/AGENTS.md)
 
-    Base file for coding agents to follow, add to any repo
+    Base file for coding agents to follow, add to any repo\
+    This file is largely copied from [this blog post](https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/)
